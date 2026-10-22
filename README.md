@@ -66,4 +66,16 @@ Este laboratorio permitió entender el ciclo completo de un ataque de ingenierí
 
 ---
 
+## 👨‍💻 Autor
+
+**Neury Jorge Montero Mejía**
+
+*Estudiante de Tecnólogo en Seguridad Informática*
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NEURY%20MONTERO-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neuryjmm)
+[![GitHub](https://img.shields.io/badge/GITHUB-NEURYJMM-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/NeuryJMM)
+
+---
+
+
 [← Volver al laboratorio](../README.md)
