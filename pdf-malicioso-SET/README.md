@@ -180,3 +180,18 @@ Durante la realización de esta práctica, pude consolidar varios conceptos vita
 2. **Evasión de políticas de entrada (Ingress):** Comprobé por qué los *Reverse Shells* son tan efectivos. Al hacer que la víctima inicie la conexión HTTP/TCP hacia el atacante (LHOST), se saltan las reglas del firewall que normalmente bloquean conexiones entrantes desconocidas.
 3. **El peligro de las interfaces amigables (GUI):** Entendí cómo el comportamiento predeterminado de Windows de "Ocultar extensiones de archivos para tipos de archivos conocidos" es un riesgo de seguridad crítico. Un usuario ve un archivo llamado `reporte.pdf` (con icono de Adobe) sin notar que el sistema ocultó el `.exe` final.
 4. **La importancia de la migración de procesos:** Una vez obtenida la sesión de Meterpreter, si el usuario cierra el PDF engañoso, la conexión se cae. Migrar el payload a un proceso persistente (como `explorer.exe` o `svchost.exe`) garantiza el acceso continuo y ayuda a evadir la detección básica.
+
+---
+## 👨‍💻 Autor
+
+**Neury Jorge Montero Mejía**
+
+*Estudiante de Tecnólogo en Seguridad Informática*
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NEURY%20MONTERO-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neuryjmm)
+[![GitHub](https://img.shields.io/badge/GITHUB-NEURYJMM-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/NeuryJMM)
+
+---
+
+
+[← Volver al laboratorio](../README.md)
