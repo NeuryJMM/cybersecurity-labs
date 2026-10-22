@@ -34,7 +34,7 @@ Los laboratorios cubren ataques comunes contra aplicaciones web (XSS, SQL Inject
 | 03 | [Cross Site Scripting (XSS)](./cross-site-scripting) | Identificación y explotación controlada de XSS en una aplicación web vulnerable de laboratorio. |
 | 04 | [SQL Injection](./sql-injection) | Identificación y explotación controlada de inyección SQL en una aplicación web vulnerable de laboratorio. |
 | 05 | [Defensive Analysis](./defensive-analysis) | Análisis defensivo: detección, indicadores de compromiso y mitigación de los hallazgos de las prácticas anteriores. |
-| 06 | [Malicious PDF](./pdf-malicioso-SET) | Metodología y análisis defensivo de un ataque de ingeniería social basado en documentos (sin artefactos maliciosos). |
+| 06 | [Malicious PDF](./06-pdf-malicioso-SET) | Metodología y análisis defensivo de un ataque de ingeniería social basado en documentos (sin artefactos maliciosos). |
 
 ---
 
