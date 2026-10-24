@@ -30,10 +30,9 @@ Los laboratorios cubren ataques comunes contra aplicaciones web (XSS, SQL Inject
 | # | Práctica | Tecnologías y alcance |
 |:--:|---|---|
 | 01 | [Dictionary Attacks](./dictionary-attacks) | Ataques de fuerza bruta por diccionario contra un servicio de autenticación, en un entorno controlado. |
-| 02 | [Linux Security](./linux-security) | Endurecimiento (*hardening*) y buenas prácticas de seguridad en sistemas Linux. |
-| 03 | [Cross Site Scripting (XSS)](./cross-site-scripting) | Identificación y explotación controlada de XSS en una aplicación web vulnerable de laboratorio. |
-| 04 | [SQL Injection](./sql-injection) | Identificación y explotación controlada de inyección SQL en una aplicación web vulnerable de laboratorio. |
-| 05 | [Defensive Analysis](./defensive-analysis) | Análisis defensivo: detección, indicadores de compromiso y mitigación de los hallazgos de las prácticas anteriores. |
+| 02 | [Cross Site Scripting (XSS)](./cross-site-scripting) | Identificación y explotación controlada de XSS en una aplicación web vulnerable de laboratorio. |
+| 03 | [SQL Injection](./sql-injection) | Identificación y explotación controlada de inyección SQL en una aplicación web vulnerable de laboratorio. |
+| 04 | [Defensive Analysis](./defensive-analysis) | Análisis defensivo: detección, indicadores de compromiso y mitigación de los hallazgos de las prácticas anteriores. |
 | 06 | [Malicious PDF](./06-pdf-malicioso-SET) | Metodología y análisis defensivo de un ataque de ingeniería social basado en documentos (sin artefactos maliciosos). |
 
 ---
@@ -53,7 +52,6 @@ Los laboratorios cubren ataques comunes contra aplicaciones web (XSS, SQL Inject
 ```text
 cybersecurity-labs/
 ├── dictionary-attacks/
-├── linux-security/
 ├── cross-site-scripting/
 ├── sql-injection/
 ├── defensive-analysis/
